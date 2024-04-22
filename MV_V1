@@ -1,0 +1,3 @@
+library(readxl)
+AFCP <- read_excel("C:/Users/pmrsl/PGHS/estatistica multivariada/AFCP.xlsx")
+View(AFCP)
